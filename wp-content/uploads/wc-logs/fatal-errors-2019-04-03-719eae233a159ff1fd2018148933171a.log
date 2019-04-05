@@ -1,0 +1,25 @@
+2019-04-03T09:39:50+00:00 CRITICAL syntax error, unexpected 'Content' (T_STRING) in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/inc/class-order_product.php on line 327
+
+2019-04-03T09:39:53+00:00 CRITICAL syntax error, unexpected 'Content' (T_STRING) in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/inc/class-order_product.php on line 327
+
+2019-04-03T09:40:03+00:00 CRITICAL syntax error, unexpected 'Content' (T_STRING) in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/inc/class-order_product.php on line 327
+
+2019-04-03T09:40:05+00:00 CRITICAL Uncaught Error: Class 'OrderProduct_Function' not found in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:580
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): register_custom_order_status('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-settings.php(450): do_action('init')
+#4 /home/samedayd/public_html/londondrycleaningcompany.com/wp-config.php(89): require_once('/home/samedayd/...')
+#5 /home/samedayd/public_html/londondrycleaningcompany.com/wp-load.php(37): require_once('/home/samedayd/...')
+#6 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin.php(31): require_once('/home/samedayd/...')
+#7 /home/samedayd/public_html/londondrycl in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 580
+
+2019-04-03T09:49:15+00:00 CRITICAL Uncaught Error: Call to a member function get_items() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-DriverOderderDeliveryPanel.php:87
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/template-loader.php(74): include()
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-blog-header.php(19): require_once('/home/samedayd/...')
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/index.php(17): require('/home/samedayd/...')
+#3 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-DriverOderderDeliveryPanel.php on line 87
+

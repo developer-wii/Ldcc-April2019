@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Delivery Area Pro\n"
+"POT-Creation-Date: 2017-06-30 16:02+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /usr/local/ampps/www/fclabs.com/wp-content/plugins/"
+"woocommerce-delivery-area-pro\n"
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:317
+msgid "Disable Shipping Enquiry Form"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:325
+msgid "Disable Product Avalibility Tab"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:335
+msgid "Assign Product To Collection"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:384
+msgid "WooCommerce"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:384
+msgid ""
+" is required for <b>Woocommerce Delivery Area Pro</b> plugin to work. Please "
+"install and configure woocommerce first."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:426
+msgid "Locate Me"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:445
+msgid "Select Product"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:457
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:402
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:567
+msgid "Check Availability"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:477
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:487
+msgid "Please enter your address."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:486
+msgid ""
+"<button id=\"place_order\" class=\" button alt new_submit button\">Place "
+"Order</button>"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:564
+msgid "Please Select at least one product"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:571
+msgid "Please enter comma seperated zipcodes in textarea."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:573
+msgid ""
+"Please enter either zipcodes or draw a polygon on google map that represents "
+"your delivery area."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:576
+msgid "Please select any country or draw any polygon."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:579
+msgid "Please select any sub-continent or draw any polygon."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:582
+msgid "Please select any continent or draw any polygon."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:619
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:621
+msgid "Collection Updated successfully."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:623
+msgid "Collection Saved successfully."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:713
+msgid "Enter Zipcode"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:741
+msgid "Check Avalibility"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:794
+msgid "Product Avalibility"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:825
+msgid "Product is avaialble in below zipcode areas."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1225
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1226
+msgid "Woocommerce Delivery Area Pro"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1299
+msgid " Product Not Available "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1301
+msgid " Product Available"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1302
+msgid "Invalid Zipcode."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1303
+msgid "Products are "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1304
+msgid " Availability Status "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1305
+msgid "All "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1306
+msgid "Products "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1319
+msgid "Please enter your address"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1320
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:503
+msgid "Sorry, We do not provide shipping in this area."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1321
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:519
+msgid "Yes, We provide shipping in this area."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1322
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:649
+msgid "Please select at least one product."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/woocommerce-delivery-area-pro.php:1337
+msgid "Are you sure you want to delete this?"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/model.settings.php:35
+msgid "Plugin Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/model.settings.php:62
+msgid "Please select at least one country."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/model.settings.php:65
+msgid "Please enter map height."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/model.settings.php:68
+msgid "Please enter map width."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/model.settings.php:86
+msgid "Setting(s) saved successfully."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:23
+msgid "Woo Delivery Area Pro Plugin Documentation"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:27
+msgid "Below are the detailed instructions to get you started with the plugin."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:35
+msgid ""
+"<b> Creating New Collection :</b> </span> The very first step is to create a "
+"collection. A collection is an association between products and its delivery "
+"area and works as a rule for possibility of delivery of product. Create a "
+"new collection from <a href=\""
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:39
+msgid ""
+"<b>Define Delivery Area : </b>Now after adding products, next step is to "
+"define delivery area for products added in above step. You can enter "
+"zipcodes directly if you want to be more specific with delivery areas. You "
+"can also select a country or sub-continent or continent as a whole if you "
+"deliver in these area as whole. Also on google map, you can draw polygons to "
+"represent your delivery area.  This polygon drawing will be displayed on "
+"frontend under \"product availability tab\" on product page. You can display "
+"beautiful customised polygons by customising its properties. Start "
+"customizing polygons properties by clicking on it. You can assign new colors "
+"to polygons, change fill opacity, stroke width, stroke color etc. You can "
+"also choose to show a infowindow or to redirect on specific url after a user "
+"click on polygon. If you want to remove any polygon, you can easily delete "
+"it by clicking on delete icon."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:45
+msgid ""
+"<b>Select Pages To Allows User Testing </b>: </span> For checking product "
+"availability, visitors will see a textbox to enter zipcode with a button on "
+"all four  default woocommerce pages. Site visitors can check product "
+"availability on following pages according to <a href='"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:51
+msgid ""
+"<b>Setup General Settings For Google Map : </b>Setup general settings to "
+"display your delivery areas on google map. You can make map much attractive "
+"by adding snazzy maps styling. Zipcodes entered in step 1 or drawn polygons "
+"in listing rules, both will be displayed on the frontend  product "
+"availability map automatically. Google Map Key is necessary to show map and "
+"check product availability in polygon area. "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:55
+msgid ""
+"<b>Restrict Country </b>:</span> Not a mandatory step. This feature is "
+"useful in case the website delivers its product in a particular country. "
+"When store owners enable this feature, when user enquire for delivery of "
+"product by enter zipcode, user will get more fast and accurate result. This "
+"feature is recommended for website shipping their products into a single "
+"country."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:59
+msgid ""
+"<b>Restrict Orders </b>:</span> Not a mandatory step. You can restrict "
+"users, if you want on checkout form to put an order if any of the product "
+"added in their cart is not ready to shipped in area of which the user enters "
+"the zipcode in the zipcode field of default woocommerce checkout form. "
+"Checkout Process will proceed only when every single product added in cart "
+"is ready to be shipped in the area that user specify by entering zipcode in "
+"default checkout form."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:62
+msgid ""
+"<b>Shortcode Enquiry Form </b>:</span> You could use Shortcode for checking "
+"product availability on any page, post and widget using Shortcode:-<b> "
+"[delivery_area] </b>. You could enable auto location detection and product "
+"listing to check special product availability on your address. "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:64
+msgid ""
+"<b>Show/Hide Zipcode Testing Form </b>:</span> You could show/hide zipcode "
+"availability form of any specific product on product and shop page. You "
+"could do this through product edit screen in backend."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:67
+msgid ""
+"<b>Show/Hide Product Avalibility Tab </b>:</span> You could show/hide "
+"product avalibility tab of any specific product on product page. You could "
+"do this through Product edit screen in backend."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:71
+msgid ""
+"<b>Update Product in Any Selected Type Collections </b>:</span> You could "
+"update any product in selected type collections from product edit screen. "
+"Updated Products will show in selected products list on manage collections "
+"page under updated collection. "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/manage.php:75
+msgid ""
+"If you have still any issue, Create your <a target=\"_blank\" href=\"http://"
+"www.flippercode.com/forums\">support ticket</a> and we would be happy to "
+"help you asap."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:13
+msgid "Delivery Area Enquiry Form Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:19
+msgid "On Product Page"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:21
+msgid "On Shop Page "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:23
+msgid "On Cart Page"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:25
+msgid "On Checkout page"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:31
+msgid "Display Delivery Enquiry Form"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:39
+msgid "Please select woocommerce pages."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:47
+msgid "Map Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:57
+msgid " Enter Google Map API Key"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:61
+msgid ""
+"You need to get an api key for google map to work with your website. You can "
+"read and follow <b><a href=\"https://www.linkedin.com/pulse/important-"
+"changes-google-maps-api-v3-website-owners-sandeep-kumar\" target=\"_blank"
+"\">This</a></b> link to get api keys."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:75
+msgid " Enter Google Map Width"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:93
+msgid " Enter Google Map height"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:111
+msgid " Enter Google Map Zoom Level"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:127
+msgid " Enter Map Center Latitude"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:144
+msgid " Enter Map Center Longitude"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:160
+msgid " Enter Snazzy Map Google Map Style"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:177
+msgid "Perform Searching WithIn A Specific Country"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:187
+msgid "Enable Country Restriction"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:195
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:261
+msgid "YES"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:221
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:114
+msgid "Choose Country"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:227
+msgid ""
+"Some places of different counties have same zipcodes. If your product "
+"delivery area falls under such category, you can specify your country here. "
+"By this google api will provide quick and more accurate results without "
+"confliction with similar zipcode of other country. Useful only if you are "
+"not specifying zipcodes directly in textbox."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:243
+msgid "Enable Order Restriction On Checkout Form"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:253
+msgid "Enable Order Restriction "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:271
+msgid "Text Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:281
+msgid "Product Not Available "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:283
+msgid "Product Available "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:285
+msgid "Invalid Zipcode "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:287
+msgid " Product Availability Status"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:297
+msgid "Availability Status"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:297
+msgid "Shop Table Heading"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:323
+msgid "Empty Zipcode Error"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:329
+msgid "Please enter zip code."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:339
+msgid "Order Restriction Error Message"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:345
+msgid "We could not complete your order due to Zip Code Unavailability."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:355
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:529
+msgid "Success Message Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:370
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:545
+msgid "Error Message Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:387
+msgid "Product Shipping Enquiry Form Button Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:396
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:561
+msgid "Button Label"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:412
+msgid "Description"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:418
+msgid "Verify your pincode for correct delivery details"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:427
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:577
+msgid "Button Text Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:442
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:595
+msgid "Button Background Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:457
+msgid "Product Delivery Area Form ( Using Shortcode ) Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:470
+msgid "Form Preview"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:475
+msgid "Form Preview Will Appear Here."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:481
+msgid "Empty Address Message"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:497
+msgid "Not Shipping Area Message"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:513
+msgid "Shipping Area Message"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:613
+msgid "Enable Locate Me Button "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:628
+msgid "Enable Product Listing "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:642
+msgid "Product Listing Error Message "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/settings/views/setting.php:655
+msgid "Save Settings "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/model.collection.php:41
+msgid "How It Works"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/model.collection.php:42
+msgid "Add Collection"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/model.collection.php:43
+msgid "Manage Collection"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/model.collection.php:95
+msgid "Updated successfully."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/model.collection.php:97
+msgid "Saved successfully."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/manage.php:66
+msgid "Title"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/manage.php:67
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:64
+msgid "Apply On"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/manage.php:68
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:59
+msgid "Selected Products"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/manage.php:69
+msgid "Applied Delivery Area Rule"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:44
+msgid "Add / Update Collection"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:47
+msgid " Title"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:51
+msgid "Enter Collection Title Here"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:58
+msgid "All Products"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:76
+msgid "Choose Products"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:84
+msgid "Delivery Area Settings"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:90
+msgid "Continent"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:91
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:149
+msgid "Sub-Continent"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:92
+msgid "Country"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:93
+msgid "By ZipCode"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:97
+msgid "Define Delivery Area By"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:117
+msgid "Choose country to display as main map."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:132
+msgid "Choose Continent"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:167
+msgid "Enter Zip Codes "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:170
+msgid "Enter comma separated zip codes"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:171
+msgid ""
+"Enter comma separated multiple zip codes here where shipping for your "
+"products is available."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:183
+msgid "Draw Product Delivery Area"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:197
+msgid ""
+"Please pick drawing tool (polygon) and start creating your product delivery "
+"area. Connect the first and last point of drawing of polygon to complete it."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:199
+msgid "Shape Properties"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:205
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:208
+msgid "Stroke Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:216
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:217
+msgid "Fill Color"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:245
+msgid "Stroke Weight"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:253
+msgid "Stroke Opacity"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:261
+msgid "Fill Opacity"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:273
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:276
+msgid "Cordinates"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:280
+msgid "Draw or click on a shape to apply properties."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:284
+msgid "Shape onclick Event"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:291
+msgid "Redirect URL"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:292
+msgid "Redirect url on click."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:299
+msgid "Message on click."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:300
+msgid "Message to display on click."
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/modules/collection/views/add.php:315
+msgid "Save Collection "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.plugin-overview.php:468
+msgid "Download WP Google Map Pro 4.0.0"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.plugin.php:718
+msgid "Hide"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.tabular.php:227
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.tabular.php:413
+msgid "Selected "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.tabular.php:244
+msgid "Manage "
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.tabular.php:588
+msgid "Filter"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/core/class.tabular.php:648
+msgid "Select Page"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/classes/wdap-form.php:8
+msgid "Woo Delivery Area Pro"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/classes/wdap-form.php:9
+msgid "wdap_view_overview"
+msgstr ""
+
+#: /usr/local/ampps/www/fclabs.com/wp-content/plugins/woocommerce-delivery-area-pro/classes/wdap-form.php:10
+msgid ""
+"A woocommerce extention that allows users for checking shipping availablity "
+"of woocommerce products by zip code."
+msgstr ""

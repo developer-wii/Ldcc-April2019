@@ -1,0 +1,76 @@
+#wpbody {padding:15px 0;}
+
+/* RESET */
+*{margin:0; padding:0; border:none; outline:none;}
+.left{float:left !important;}
+.right{float:right !important;}
+.last{margin-right:0 !important;}
+.relative {position:relative;}
+.clear {clear:both;}
+.alignright {text-align:right !important;}
+.alignleft {text-align:left !important;}
+.content-spacing {margin:10px 0;float:left;display:block;width:100%;}
+
+.seperator-admin {clear:both;float:left;display:block;width:100%;padding:20px 0;}
+#wp-memo-wrap {clear:both;float:left;display:block;width:100%;}
+
+.seperator-admin select#user-selector, .seperator-admin select#user-selected {width:490px;}
+.seperator-admin label {width:100%;clear:both;float:left;display:block;}
+.seperator-admin select#user-selector {clear:both;float:left;height:320px;}
+.seperator-admin select#user-selected {clear:both;float:left;height:320px;}
+.selector-btn {clear:both;float:left;}
+
+a {text-decoration:none;color:#103956;}
+a:hover {color:#103956;text-decoration:none;}
+a:active {color:#103956;text-decoration:none;}
+a:focus {color:#103956;text-decoration:none;}
+a{-webkit-transition: all 0.2s ease; -moz-transition: all 0.2s ease; -ms-transition: all 0.2s ease; -o-transition: all 0.2s ease; transition: all 0.2s ease;}
+
+table, tbody {font-family:'Open Sans', sans-serif;}
+h1,h2,h3,h4,h5,h6 {margin:10px 0;padding:0px;}
+
+/* ADMIN MENU BAR */
+ul.ttt-control-admin-bar {background:#ffffff;width:99%;display:block;margin:15px 0;padding:15px 0;clear:both;float:left;list-style-type:none;}
+ul.ttt-control-admin-bar li {float:left;display:inline-block;margin:0 5px;padding:0px;}
+ul.ttt-control-admin-bar li a {margin:0px;padding:10px 25px;background:#7b7b7b;color:#ffffff;text-transform:uppercase;border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;text-decoration:none;font-size:14px;}
+ul.ttt-control-admin-bar li a:hover, ul.ttt-control-admin-bar li a:active, ul.ttt-control-admin-bar li a:focus {background:#c0c0c0;}
+
+/* FLASH MESSAGES */
+.flash-error {width:99%;background:#fbd5d6;padding:5px;border:1px solid #e63c44;margin-top:17px;font-size:14px;color:#e63c44;}
+.flash-error p {margin:0px !important;font-size:14px;color:#e63c44;}
+
+.flash-success {width:99%;background:#e5fce6;padding:5px;border:1px solid #19d221;margin-top:17px;font-size:14px;color:#19d221;}
+.flash-success p {margin:0px !important;font-size:14px;color:#19d221;}
+
+/* TABLES */
+.tabler-container {width:97%;padding:1%;background:#ffffff;float:left;display:block;clear:both;}
+
+.tabler-data .hasread {background:#f1fade !important;}
+.remove-selected {}
+
+.tabler-data {margin:0px;padding:0px;}
+.tabler-data tr {padding:6px;}
+.tabler-data tr.odd {background:#ffffff;}
+.tabler-data tr.even {background:#f1f1f1;}
+.tabler-data th, .tabler-data td {padding:6px;text-align:left;}
+.tabler-data th {background:#222;color:#fff;}
+
+.btns, button.btns {text-transform:uppercase;background:#03383f;padding:4px 8px;font-weight:700;color:#ababab !important;font-size:12px;text-align:center;cursor:pointer;-webkit-border-radius:10px;-moz-border-radius:10px;border-radius:10px;-webkit-appearance:none;text-decoration:none;display:inline-block;}
+.btns:hover , button.btns:hover {background:#f1f1f1; text-decoration:none !important;color:#03383f !important;}
+.btns:active , button.btns:active {background:#f1f1f1 !important;color:#03383f !important;}
+
+button.btns {margin-top:15px !important;color:#ffffff !important;font-weight:700 !important;font-size:14px !important;}
+
+.pagination {margin:0px;padding:10px 0;list-style-type:none;}
+.pagination li {float:left;display:inline-block;margin:10px 2px;background:#f1f1f1;width:20px;height:20px;vertical-align:middle;}
+.pagination li.current {background:#222222;color:#ffffff;}
+.pagination li:hover, .pagination li:active, .pagination li:focus {background:#c0c0c0;color:#ffffff !important;}
+.pagination li a {display:block;padding:0px;text-decoration:none;font-size:14px;color:#464646;font-weight:700;text-align:center;}
+.pagination li.current a {color:#ffffff !important;font-weight:700;text-align:center;}
+.pagination li.current:hover {background:#3b8161;}
+.pagination li.current:hover {color:#ffffff;}
+
+
+.importer {background:#fafafa;clear:both;float:left;display:block;margin:20px 0 0 0;padding:20px;width:97%;}
+.importer label {font-size:16px;font-weight:bold;width:97%;float:left;display:block;margin-bottom:10px;}
+.importer input[type="file"] {background:#fff;padding:1px;clear:both;}

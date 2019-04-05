@@ -1,0 +1,8 @@
+[05-Dec-2018 04:47:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11
+[05-Dec-2018 11:50:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentysixteen/template-parts/content-single.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentysixteen/template-parts/content-single.php on line 11

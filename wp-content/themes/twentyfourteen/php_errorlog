@@ -1,0 +1,24 @@
+[05-Dec-2018 23:33:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/header.php on line 13
+[06-Dec-2018 03:16:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/header.php on line 13
+[07-Dec-2018 14:01:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/functions.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/functions.php on line 43
+[07-Dec-2018 18:10:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/functions.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/functions.php on line 43
+[11-Dec-2018 18:21:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/404.php on line 10
+[11-Dec-2018 20:00:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyfourteen/404.php on line 10

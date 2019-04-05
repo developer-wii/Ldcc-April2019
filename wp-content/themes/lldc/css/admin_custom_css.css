@@ -1,0 +1,13 @@
+
+.barcode_section{border: 1px solid black;}
+.barcode_section{width: 100%;float: left;margin-top: 20px;}
+.barcode_section tbody{float: left;}
+/*.barcode_section td{width: auto;float: left;}*/
+
+/*1/4/19 admin backend*/
+#order_data .order_data_column{width: 60% !important;}
+#order_data .order_data_column .order_data_column{padding: 0px;width: 48% !important;float: left;}
+#order_data .order_data_column .order_data_column:nth-of-type(1){margin-right: 18px;}
+.wc-order-items-editable .wc-order-totals{clear: both;margin: 10px 0px;}
+
+

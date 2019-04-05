@@ -1,0 +1,2 @@
+<?php
+die("Test page");

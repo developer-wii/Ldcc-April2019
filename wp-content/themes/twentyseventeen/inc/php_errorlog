@@ -1,0 +1,16 @@
+[06-Dec-2018 05:10:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 07:59:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/template-tags.php:196
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/template-tags.php on line 196
+[06-Dec-2018 18:58:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22
+[06-Dec-2018 21:35:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/icon-functions.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentyseventeen/inc/icon-functions.php on line 22

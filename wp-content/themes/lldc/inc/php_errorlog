@@ -1,0 +1,4 @@
+[04-Dec-2018 06:59:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/inc/customizer.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/inc/customizer.php on line 29

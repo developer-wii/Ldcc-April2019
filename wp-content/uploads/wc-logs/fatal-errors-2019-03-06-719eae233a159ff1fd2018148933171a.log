@@ -1,0 +1,32 @@
+2019-03-06T06:53:50+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-monthlyplan.php:48
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/template-loader.php(74): include()
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-blog-header.php(19): require_once('/home/samedayd/...')
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/index.php(17): require('/home/samedayd/...')
+#3 {main}
+  thrown
+
+2019-03-06T06:53:59+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-monthlyplan.php:48
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/template-loader.php(74): include()
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-blog-header.php(19): require_once('/home/samedayd/...')
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/index.php(17): require('/home/samedayd/...')
+#3 {main}
+  thrown
+
+2019-03-06T06:54:38+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-monthlyplan.php:48
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/template-loader.php(74): include()
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-blog-header.php(19): require_once('/home/samedayd/...')
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/index.php(17): require('/home/samedayd/...')
+#3 {main}
+  thrown
+
+2019-03-06T06:54:40+00:00 CRITICAL Uncaught Error: Call to a member function have_posts() on array in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/template-monthlyplan.php:48
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/template-loader.php(74): include()
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-blog-header.php(19): require_once('/home/samedayd/...')
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/index.php(17): require('/home/samedayd/...')
+#3 {main}
+  thrown
+

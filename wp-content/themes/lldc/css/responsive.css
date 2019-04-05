@@ -1,0 +1,396 @@
+@media only screen and ( max-width: 1200px ){
+.header .logo .navbar-brand > img {
+	max-width: 100%;
+	width: 100%;
+}
+.header .logo {
+    max-width: 296px;
+	margin-top: 11px;
+}
+.time_date p{
+	font-size: 15px;
+}
+.header{padding: 0 3%;}
+.header .right-top .phone{font-size: 14px; margin: 6px 27px 0 0; padding: 6px 13px 6px 40px; background-position: 14px 5px;}
+.header .right-top .top-links li a{font-size: 14px; line-height: 22px; padding: 0 10px 0 22px; background-size: 16px auto !important; background-position: 0 2px !important;}
+.header .navbar-default .navbar-nav li a{font-size: 16px; padding: 5px 8px;}
+.header .navbar-default .navbar-nav li.question a{font-size: 16px; padding: 5px 12px; }
+.banner .contentB{padding: 40px 3% 50px;}
+.banner .contentB h1{
+	font-size: 35px;
+}
+.banner .contentB .order_input input[type="text"]{
+	font-size: 19px;
+	line-height: 40px;
+}
+.banner .contentB .order_input input[type="button"]{
+	font-size: 17px; padding: 10px 0; width: 123px; float:right;
+}
+.new-account {
+	margin-top:26px;
+}
+.dropdown.user_profile{
+	margin-top: 25px;
+}
+.new-account span a{
+	font-size: 14px;
+	padding: 12px 15px;
+}
+.contrctr_orders .cat_list .left-content ul li{
+	width: 48%;
+}
+.contrctr_orders .cat_list .your_basket{
+	width: 33%;
+}
+.contrctr_orders .cat_list .left-content{
+	max-width: 62%;
+}
+.new-admin{
+	margin: 27px 15px 0 0;
+}
+
+
+}
+
+@media only screen and ( max-width: 991px ){
+.header .right-top .phone{
+	font-size: 11px;
+	background-position: 10px 3px;
+	padding: 6px 13px 6px 32px;
+}
+.header .right-top .top-links li a{
+	padding: 0 10px 0 16px;
+	background-size: 13px auto !important;
+}
+.admin-main-section .add_new_admin .new_admin_form select{
+	background-position: 98% 17px;
+	background-size: 18px;
+}
+.header .right-top .top-links ul {
+    margin: 7px 5px;
+}
+.header .right-top .top-links li a{
+	font-size: 13px;
+}
+.student_rgstr_form .formSR .form_box{
+	width: 100%;
+	margin: 1.5%;
+}
+.student_rgstr_form .formSR .form_box.box03{
+	margin: 1.5%;
+    float: left;
+}
+.new-admin{
+	    margin: 12px 15px 0 0;
+}
+.new-admin a{padding: 7px 20px;}
+.contrctr_orders .cat_list .left-content ul li {
+    width: 97%;
+}
+.student_rgstr_form .formSR .form_box.user_form_box{
+	width:98%;
+}
+.student_rgstr_form .formSR .form_box.user_form_box.box02{
+	width:98%;
+	min-height: auto;
+}
+.student_rgstr_form.new_contractr .formSR .buttons{
+	width: 100%;
+	margin-top: 0;
+}
+.header .header-right.contractr_history .phoneH{
+	margin-top: 7px;
+}
+.header .header-right.contractr_history .phoneH a{
+	background-position: 15px 5px;
+	padding: 6px 20px 6px 40px;
+	font-size: 14px;
+}
+.header .header-right.contractr_history .date_email{
+	margin-top: 5px;
+	width: 311px;
+	float: right;
+}
+.header .header-right.contractr_history .date_email a{
+	clear: both;
+	display: table;
+	float: right;
+	margin: 4px 10px 0;
+}
+.contrctr_orders .cat_list .left-content {
+    max-width: 54%;
+}
+.contrctr_orders .cat_list .your_basket {
+    width: 39%;
+}
+.corporate_banner p{
+	font-size: 34px;
+}
+
+.header .header-right {
+  float: right;
+  width: 68%;
+}
+.header .desk-nav{
+	padding:0;
+}
+.header .right-top {
+    float: right;
+}
+.header .navbar-default .navbar-nav {
+  margin-top: 5px;
+}
+.header .navbar-brand{padding: 0;}
+.header .logo {
+  margin-top: 11px;
+  max-width: 215px;
+}
+
+/* .new-account {
+    display: table;
+    margin-top: 26px;
+    float: right;
+    clear: both;
+}
+.dropdown.user_profile {
+    margin-top: 13px;
+    display: table;
+    float: right;
+    width: 100%;
+	text-align: right;
+}
+.new-account span{
+	padding: 0 0 0 10px;
+} */
+
+.new-account{
+	margin-top: 6px;
+	float: right;
+}
+.dropdown.user_profile {
+    margin-top: 10px;
+    margin-right: 12px;
+	display: table;
+	clear: both;
+}
+.new-account span a{
+	padding: 7px 15px;
+}
+.header .header-right .user_profile .btn-primary{
+	background-position: 14px 7px;
+	padding: 7px 20px 7px 38px;
+}
+.shop_control .shopC_list .tab-content table th{
+	font-size: 15px;
+}
+.admin-main-section .adit_admin .admin_edit_table{
+	width:100%;
+}
+.admin-main-section .adit_admin .change-pass {
+  margin-right: 0;
+  max-width: 100%;
+  text-align: center;
+  width: 100%;
+}
+.admin-main-section .add_new_admin .new_admin_form .field{
+	width: 32%;
+}
+.admin-main-section .admin_sec .table th{
+	font-size: 16px;
+}
+.admin-main-section .admin_sec .table td{
+	font-size: 16px;
+}
+.admin-main-section .add_new_admin .new_admin_form input, .admin-main-section .add_new_admin .new_admin_form select{
+	font-size: 15px;
+	height: 42px;
+}
+.admin-main-section .add_new_admin .new_admin_form .field{
+	padding: 0 3px;
+}
+.admin-main-section .add_new_admin .action_button input[type="button"]{
+	margin: 0 3px;
+	font-size: 18px;
+}
+
+
+	
+}
+
+
+@media only screen and ( max-width: 840px ){
+.banner .contentB {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  position: relative;
+  width: 100%;
+  z-index: 9;
+}
+.banner::after {
+    opacity: 0.1;
+    width: 100%;
+}
+.banner .contentB .order_input input[type="text"] {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  color: #000;
+  font-size: 19px;
+  line-height: 40px;
+}
+	
+}
+
+
+@media only screen and ( max-width: 767px ){
+.container{margin:0 2% !important;}
+.header .right-top{display:none;}
+.header .logo{display: inline-table;}
+.header .navbar-toggle{top: 14px;}
+.header .navbar-default .header-right .desk-nav{width:100%; padding-bottom: 20px;}
+.header .navbar-default .header-right {
+	background: #fff none repeat scroll 0 0;
+	float: right;
+	margin-top: 12px;
+	position: absolute;
+	top: 100%;
+	width: 100%;
+	z-index: 99;
+}
+.header .navbar-default .header-right.order_cnfrmtion_hrd {
+    position:relative;
+	text-align: right;
+}
+.new-account {
+    margin-top: 20px;
+    width: 100%;
+}
+.new-account span{width: 50%; text-align: center;}
+.header .navbar-default .navbar-nav li .phone{}
+.header .navbar-default .desk-nav > .question{display:block;}
+.header .navbar-default .navbar-nav li:first-child a{display:inline-table; border-bottom:0;}
+.header .navbar-default .navbar-nav li:first-child .phone{display:inline-table; float:right;}
+.header .navbar-default .navbar-nav {
+  margin: 0;
+  padding: 2%;
+  width: 96%;
+}
+.header .navbar-default .navbar-nav li:nth-child(4) a {border-bottom:0;}
+.header .navbar-default .navbar-nav li a {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 7px 0;
+}
+.header .navbar-default .desk-nav .top-links ul{
+	margin: 7px 13px;
+}
+.header .navbar-default .desk-nav .top-links ul li {
+  float: left;
+  padding: 0 3%;
+  text-align: center;
+  width: auto;
+}
+.header .navbar-default .desk-nav .top-links ul li.money a {
+    background: url(../images/money.png) no-repeat;
+    background-position: 0 0;
+}
+.header .navbar-default .desk-nav .top-links ul li.Corporate a {
+    background: url(../images/Corporate.png) no-repeat;
+    background-position: 0 0;
+}
+.header .navbar-default .desk-nav .top-links ul li.Student a {
+    background: url(../images/student.png) no-repeat;
+    background-position: 0 0;
+}
+.header .navbar-default .desk-nav .top-links ul li a {
+    float: left;
+    padding: 0 10px 0 30px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 16px;
+    font-family: 'ProximaNovaA-Light';
+}
+.header .navbar-default .desk-nav .top-links {
+    background: #034e6b;
+    border-radius: 5px;
+    display: inline-table;
+    float: right;
+    position: relative;
+	margin: 0 2%;
+	display:block;
+	width:96%;
+}
+.header .right-top .phone {
+    font-size: 14px;
+    margin: 6px 27px 0 0;
+    padding: 6px 13px 6px 40px;
+}
+.header .navbar-default .navbar-nav li .phone {
+  background: rgba(0, 0, 0, 0) url("../images/phone.png") no-repeat scroll 12px 5px;
+  border: 1px solid #34c0f7;
+  border-radius: 50px;
+  color: #000;
+  display: block;
+  float: left;
+  font-family: "ProximaNovaA-Semibold";
+  font-size: 13px;
+  margin: 0;
+  padding: 5px 14px 5px 35px;
+}
+.header .navbar-default .navbar-nav {
+    border-bottom: 1px solid #034e6b ;
+    margin: 2%;
+    width: 96%;
+}
+.header .navbar-default .navbar-nav li.question a{display:none;}
+.header .navbar-default .desk-nav > .question a {
+    color: #000;
+    font-size: 18px;
+    font-family: 'ProximaNovaA-Semibold';
+    color: #34c0f7;
+    border: 1px solid #34c0f7;
+    padding: 10px 20px;
+    border-radius: 50px;
+}
+.header .navbar-default .desk-nav > .question {
+  clear: both;
+  display: block;
+  float: left;
+  margin-top: 30px;
+  padding: 0 2%;
+  width: 96%;
+}
+
+
+}
+@media only screen and ( max-width: 620px ){
+.order_cnfrmtion_user .address_sec span.adrss {
+	float: left;
+	width: 100%;
+}
+.order_cnfrmtion_user .address_sec span.new_adrss {
+    float: left;
+    margin-top: 13px;
+}
+
+
+}
+@media only screen and ( max-width: 420px ){
+.banner .contentB .order_input input[type="text"]{width: 58%; font-size: 16px; line-height: 34px;}
+.banner .contentB .order_input input[type="button"]{padding: 9px 0; font-size: 16px; width: 116px;}
+.banner .contentB h1 {
+font-size: 29px;
+}
+.footer_btm p{
+	font-size: 16px;
+}
+.footer_btm{padding: 13px 0;}
+.login-page .login_form .frgt-pass p.forgt {
+  float: left;
+  margin-top: 9px;
+  padding: 0;
+  text-align: left;
+  width: 100%;
+}
+.crport_form .formC{
+	padding: 15px 6px;
+}
+
+}
+

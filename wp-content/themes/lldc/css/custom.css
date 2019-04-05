@@ -1,0 +1,669 @@
+/************************************ 16/10 css Start ************************************/
+
+/* Header-2 Start */
+
+.header_wrapper {
+	padding-bottom: 58px;
+}
+
+.delivery_header {
+	padding: 0 3% 1px !important;
+	/*padding: 0px !important;*/
+	border-bottom: 2px solid #34c0f7;
+}
+
+.delivery_header .logo {
+	margin-top: 0px;
+}
+
+.delivery_header .navbar {
+	min-height: 100%;
+}
+
+.delivery_header .nav_header_left .navbar-brand {
+	height: 100%;
+}
+
+.delivery_header .navbar-default {
+	background-color: #fff;
+}
+
+.delivery_header .delivery-default {
+	margin-bottom: 0px;
+}
+
+.delivery_head_right ul.delivery_nav {
+	float: none;
+	width: auto;
+	margin: 0 auto;
+	display: inline-block;
+}
+
+.delivery_head_right ul.delivery_nav li {}
+
+.delivery_head_right ul.delivery_nav li a {
+	line-height: 26px;
+	font-family: 'Palanquin-Regular' !important;
+	color: #064862 !important;
+	margin: 0px 8px;
+	border: 1px solid #064862;
+	border-radius: 50px;
+	padding: 0px 15px 2px 15px !important;
+}
+
+.delivery_head_right ul.delivery_nav li a.active {
+	color: #34c0f7 !important;
+	border-color: #34c0f7;
+}
+
+.delivery_head_right ul.delivery_nav li.active a {
+	color: #34c0f7 !important;
+	border-color: #34c0f7;
+}
+
+.delivery_head_right ul.delivery_nav li a:hover {
+	border-color: #34c0f7;
+	color: #34c0f7 !important;
+}
+
+.delivery_head_right ul.delivery_nav_right li a.phone:hover {
+	border-color: #34c0f7;
+	color: #34c0f7 !important;
+	background: url(../images/phone.png) no-repeat !important;
+	background-position: 28px 5px !important;
+}
+
+header .delivery_head_right {
+	float: left !important;
+}
+
+header .call_shop {
+	float: left !important;
+}
+
+/*.delivery_head_right ul.delivery_nav_right{display: block !important;}*/
+
+.delivery_head_right ul.delivery_nav_right {
+	float: right;
+}
+
+.delivery_head_right ul.delivery_nav_right li .phone {
+	display: block !important;
+}
+
+.delivery_head_right ul.delivery_nav_right li a.phone {
+	font-size: 16px;
+	border-radius: 50px;
+	display: inline-table;
+	background: url(../images/phone_header.png) no-repeat !important;
+	border: 1px solid #064862;
+	color: #064862;
+	/*font-weight: bold;*/
+	background-position: 28px 5px !important;
+	float: left;
+	cursor: pointer;
+	vertical-align: middle;
+	line-height: 26px;
+	font-family: 'Palanquin-Regular' !important;
+	margin: 0px 8px;
+	padding: 0px 30px 2px 55px !important;
+}
+
+.header .delivery_head_right .navbar-nav {
+	margin-top: 35px;
+}
+
+.delivery_head_right {}
+
+.delivery_head_right .navbar-collapse {
+	width: auto;
+	float: none;
+}
+
+/*header .delivery_nav{width: 75%;}*/
+
+.nav_collapse {
+	width: 100%;
+	text-align: center;
+}
+
+/* Header-2 End */
+
+/* driver_current_delivery_panel */
+
+.current_delivery {
+	margin-bottom: 70px;
+}
+
+.current_delivery table {
+	width: auto;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.current_delivery table thead {
+	background-color: #064862;
+}
+
+.current_delivery table th {
+	border-bottom: 2px solid #064862 !important;
+	padding: 15px 18px !important;
+	text-align: justify;
+	color: #ececec;
+	font-size: 22px;
+	line-height: 26px !important;
+	font-family: 'Palanquin-Bold';
+}
+
+.current_delivery table th:nth-of-type(4) {
+	text-align: center;
+}
+
+.current_delivery table td {
+	padding: 25px 25px !important;
+	text-align: center;
+	border-top: 2px solid #fff !important;
+	background-color: #ececec;
+	font-size: 18px;
+	line-height: 26px;
+	color: #000;
+	font-family: 'Palanquin-Bold';
+}
+
+.deliver_active {
+	line-height: 15px;
+	border-radius: 8px;
+	margin-bottom: 0px;
+	background-color: #34c0f7;
+	color: #fff;
+	padding: 15px 15px;
+	text-align: center;
+}
+
+.deliver {
+	line-height: 15px;
+	border: 2px solid #34c0f7;
+	border-radius: 8px;
+	margin-bottom: 0px;
+	background-color: transparent;
+	color: #34c0f7;
+	padding: 15px 15px;
+	text-align: center;
+}
+
+.error_msg {
+	line-height: 15px;
+	border: 2px solid #e50b0b;
+	border-radius: 4px;
+	margin-bottom: 0px;
+	background-color: transparent;
+	color: #e50b0b;
+	padding: 15px 15px;
+	text-align: center;
+}
+
+/*.current_delivery table td:nth-of-type(1){text-align: center;}*/
+
+.current_delivery table td:nth-of-type(4) {
+	padding: 15px 45px !important;
+}
+
+/* driver_delivery_history_panel */
+
+.common_class .current_delivery table td:nth-of-type(4) {
+	padding: 25px 25px !important;
+}
+
+.common_class .current_delivery table th:nth-of-type(2) {
+	text-align: center;
+}
+
+.common_class .current_delivery table th:nth-of-type(6) {
+	text-align: center;
+}
+
+
+/************************************ 16/10 css End ************************************/
+
+/*25/10 Driver Current Delivery Panel */
+
+/*.cover_servi .sign_pad{width: auto;float: left;margin: 15px 0px;text-align: center;}
+.cover_servi .sign_pad .signature-pad{margin-bottom: 10px;}
+.cover_servi form{width: 100%;float: left;}
+.cover_servi form p.person_name{width: 100%;float: left;margin-top: 80px;}
+.cover_servi p.check_box{text-align: left;margin: 12px 0px 0px 0px;width: auto;float: left;left: 18px;}
+.cover_servi p.tex_tbox{width: auto;float: left;top: 70px;left: -26px;}
+.cover_servi form input{float: left;}
+.cover_servi form input.sub_mit_btn{float: right;}
+.cover_servi p.tex_tbox span{}
+
+*/
+
+.cover_servi p.check_box,
+.cover_servi p.tex_tbox {
+	float: left;
+	clear: both;
+	margin: 0px;
+}
+
+.cover_servi p.check_box,
+	{
+	margin: 0px;
+}
+
+.cover_servi p.check_box input[type="checkbox"],
+.cover_servi p.tex_tbox input[type="checkbox"] {
+	float: left;
+}
+
+.cover_servi form p.person_name {
+	width: 100%;
+	float: left;
+	margin-top: 30px;
+}
+
+.cover_servi .sign_pad button {
+	display: inline-block;
+	padding: 6px 30px;
+	font-size: 18px;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 2px solid #34c0f7;
+	border-radius: 35px;
+	color: #34c0f7;
+	background: transparent;
+	font-weight: 500;
+}
+
+.cover_servi .sign_pad {
+	text-align: center;
+}
+
+.cover_servi .sign_pad button:hover {
+	color: #fff;
+	background-color: #34c0f7;
+}
+
+.cover_servi .sign_pad .signature-pad {
+	margin: 0 auto;
+	margin-bottom: 10px;
+}
+
+.cover_servi p.clinet {
+	margin-bottom: 40px;
+}
+
+.map_co {
+	margin-bottom: 14px;
+}
+
+.acknowledge .check_box {
+	margin-bottom: 20px !important;
+}
+
+/************************************ Responsive Start ************************************/
+
+@media screen and (max-width: 1170px) {
+	/*header*/
+	.header .delivery_head_right .navbar-nav {
+		margin-top: 32px;
+	}
+	/*header .delivery_head_right{width: 58.33333333%;}
+header .call_shop{width: auto;float: left !important;padding-left: 0px;}*/
+	.delivery_head_right ul.delivery_nav_right li a.phone {
+		padding: 0px 30px 2px 49px !important;
+		background-position: 22px 5px;
+	}
+	.delivery_head_right .main_nav {
+		padding: 0px;
+	}
+
+	/*driver_current_delivery_panel*/
+	.current_delivery table th {
+		font-size: 20px;
+		padding: 15px 22px !important;
+		white-space: nowrap;
+	}
+	.current_delivery table td {
+		padding: 25px 22px !important;
+		white-space: nowrap;
+	}
+
+
+
+
+
+}
+
+
+@media screen and (max-width: 1024px) {
+	/*header*/
+	/*.header .delivery_head_right .navbar-nav{margin-top: 32px;}*/
+	/*header .delivery_head_right{width: 55.33333333% !important;}*/
+	/*header .call_shop{width: 19% !important;}*/
+	.delivery_head_right .main_nav .nav1 {
+		width: 70%;
+	}
+	.delivery_head_right .main_nav .nav2 {
+		width: 30%;
+	}
+
+
+
+
+}
+
+@media screen and (max-width: 991px) {
+	/*header*/
+	/*.delivery_header .delivery_head_right{width: 50% !important;padding-left: 0px;}
+.delivery_header .delivery_head_right.call_shop{width: 25% !important;padding-right: 0px;}*/
+	.header .delivery_head_right .navbar-nav {
+		margin-top: 22px !important;
+	}
+	.delivery_head_right .main_nav .nav1 {
+		width: 66%;
+	}
+	.delivery_head_right .main_nav .nav2 {
+		width: 34%;
+	}
+
+	/*driver_current_delivery_panel*/
+	.current_delivery table th {
+		white-space: nowrap;
+	}
+	.current_delivery table td {
+		white-space: nowrap;
+	}
+	/*18/10*/
+	.delivery_head_right .main_nav {
+		margin-bottom: 10px;
+	}
+	.header .delivery_head_right {
+		width: 100% !important;
+	}
+	.delivery_head_right .main_nav .nav1 {
+		width: auto;
+	}
+	.delivery_head_right .main_nav .nav2 {
+		width: auto;
+		float: right;
+	}
+
+
+}
+
+
+@media screen and (max-width: 900px) {
+	/*header*/
+	.header .delivery_head_right .navbar-nav {
+		margin-top: 22px !important;
+	}
+
+
+}
+
+@media screen and (max-width: 768px) {
+
+	/*header*/
+	header .delivery_head_right {
+		width: 100% !important;
+	}
+	.nav_collapse {
+		text-align: left;
+	}
+
+
+}
+
+
+@media screen and (max-width: 767px) {
+	/*header*/
+	/*.delivery_header {margin-bottom: 72px;}*/
+	.delivery_header .delivery_head_right .navbar-collpase {
+		float: right !important;
+	}
+	.header .delivery-default .delivery_head_right {
+		top: 100% !important;
+		margin-top: 0px;
+	}
+	.header .delivery-default .delivery_nav_right {}
+	.header_wrapper {
+		padding-bottom: 125px;
+	}
+	.delivery_nav_right {}
+	.delivery_nav_right li {
+		float: left;
+	}
+	.delivery_nav_right li a {
+		float: left;
+	}
+
+	.header .delivery_head_right .navbar-nav {
+		margin-top: 0px !important;
+	}
+	.header .delivery-default .delivery_head_right li:first-child a {}
+	.header .delivery-default .delivery_nav_right {
+		width: 100%;
+		float: left;
+		width: 100%;
+		margin: 0 auto;
+	}
+	.header .delivery-default .delivery_nav_right li a.phone {
+		float: none !important;
+		border: 1px solid #064862 !important;
+	}
+
+	/*.delivery_header .delivery_head_right.call_shop {
+		width: 94% !important;
+	}*/
+	.header .delivery-default .delivery_nav_right {
+		border-bottom: 1px solid #064862;
+		margin: 0 !important;
+		width: 96% !important;
+		padding: 2% !important;
+	}
+
+	/* driver_current_delivery_panel */
+	.current_delivery {
+		margin-bottom: 0px;
+	}
+	.current_delivery table {
+		width: 100%;
+	}
+	.delivery_head_right .main_nav .nav1 {
+		width: 100%;
+		float: left;
+	}
+	.delivery_head_right .main_nav .nav2 {
+		width: 100%;
+		float: left;
+	}
+	.header .delivery_head_right .navbar-nav {
+		width: auto !important;
+		margin: 0px !important;
+	}
+	.delivery_head_right .main_nav .nav1 .nav_collapse {
+		text-align: center;
+	}
+	.delivery_head_right .main_nav .nav2 .nav_collapse {
+		text-align: center;
+	}
+	.header .delivery-default .nav1 .navbar-nav li:first-child a {
+		border-bottom: 1px solid !important;
+	}
+	.delivery_head_right ul.delivery_nav li {
+		margin-bottom: 10px;
+	}
+	.header .delivery-default .navbar-collapse {
+		border-top: 0px;
+	}
+	.header .delivery-default .navbar-nav {
+		border-bottom: 0px !important;
+	}
+	.header .delivery-default .delivery_nav_right li {
+		float: none;
+	}
+	.header .navbar-default .navbar-nav li:first-child .phone {}
+	.header .delivery-default .delivery_nav_right li {
+		float: none;
+		width: auto;
+		display: inline-block;
+	}
+	.header .delivery-default .nav2 .navbar-nav {
+		float: none;
+		padding: 0px !important;
+	}
+	.delivery_head_right ul.delivery_nav_right li a.phone {
+		font-size: 16px !important;
+		background: url(../images/phone_header.png) no-repeat !important;
+		background-position: 22px 5px !important;
+	}
+	.delivery_head_right .main_nav .nav1 .delivery_nav {
+		padding: 0px;
+	}
+	.header .delivery-default .delivery_head_right {
+		margin-top: 20px;
+	}
+	.header .delivery-default .delivery_head_right .desk-nav {
+		overflow: hidden;
+	}
+	/*Driver_odrder_delivery_panel- 18/10*/
+	/*.cover_servi p.clinet {
+	width: 100%;
+	float: left;
+	text-align: center;
+	}
+
+	.cover_servi .clientcover {
+		width: 100%;
+		text-align: center;
+		float: left;
+	}
+
+	.cover_servi label {
+		width: auto;
+	}
+
+	.cover_servi form {
+		width: 100%;
+		float: left;
+	}*/
+	/*25/10 Driver Current Delivery Panel */
+	.cover_servi p.clinet span {
+		width: 100%;
+	}
+	.cover_servi p.clinet label {
+		display: inline;
+	}
+	.cover_servi .sign_pad {
+		width: 100%;
+		float: left;
+	}
+	.cover_servi .sign_pad .signature-pad {
+		margin: 15px auto 10px;
+	}
+	.cover_servi .acknowledge {
+		width: 100%;
+		float: left;
+		margin-top: 15px;
+	}
+	.cover_servi p.check_box input[type="checkbox"],
+	.cover_servi p.tex_tbox input[type="checkbox"] {
+		margin: 7px 8px 0 0px;
+	}
+
+
+}
+
+@media screen and (max-width: 625px) {
+	/*header*/
+	.header .delivery-default .delivery_nav_right {
+		padding: 2% 4% !important;
+	}
+
+
+}
+
+@media screen and (max-width: 480px) {
+	/*header*/
+	.delivery_header .delivery_head_right.call_shop {
+		width: 85% !important;
+	}
+	.header .delivery-default .delivery_nav_right {
+		width: 100% !important;
+	}
+	.header .delivery-default .delivery_nav_right {
+		padding: 2% 0% !important;
+	}
+
+}
+
+@media screen and (max-width: 415px) {
+	/*header*/
+	.delivery_header .delivery_head_right.call_shop {
+		width: 82% !important;
+	}
+
+}
+
+@media screen and (max-width: 384px) {
+	/*25/10 Driver Current Delivery Panel */
+	.cover_servi p.check_box input[type="checkbox"],
+	.cover_servi p.tex_tbox input[type="checkbox"] {
+		margin: 7px 0px 0 0px;
+	}
+	.cover_servi .acknowledge {
+		padding: 0px;
+	}
+}
+
+@media screen and (max-width: 375px) {
+	/*header*/
+	.delivery_header .delivery_head_right.call_shop {
+		width: 80% !important;
+	}
+	.header .nav_header_left .navbar-toggle {
+		top: 22px;
+	}
+
+}
+
+@media screen and (max-width: 341px) {
+	/*25/10 Driver Current Delivery Panel */
+	.cover_servi .sign_pad .signature-pad {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.delivery_header {
+		margin-bottom: 52px;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	/*header*/
+	.delivery_header .delivery_head_right.call_shop {
+		width: 78% !important;
+	}
+	.header .nav_header_left .logo {
+		width: 165px;
+	}
+	.header .nav_header_left .navbar-toggle {
+		top: 14px;
+	}
+
+
+
+}
+
+/************************************ Responsive End ************************************/

@@ -1,0 +1,63 @@
+// The latest settings can be found here:
+// https://github.com/zurb/bower-foundation/blob/master/scss/foundation/_settings.scss
+
+$row-width: rem-calc(1300);
+$column-gutter: rem-calc(30);
+$total-columns: 12;
+
+/* GLOBAL */
+$sans: "Europa", sans-serif;
+$Europa: "Europa", sans-serif;
+$gillsans: "Europa",sans-serif;
+$pp22under: "Europa",sans-serif;
+$kepler: "kepler-std-display", sans-serif;
+// $kepler: "KeplerStd", sans-serif;
+
+$font-weight-normal: normal;
+$purple: #6c34a4;
+$greysection: #eaeaea;
+$greysectiontwo: #dfdbda;
+
+$darkborder: #c1bbbf;
+$lightborder: #e8e8e8;
+
+$black: #000000;
+
+/* BODY */
+$body-bg: #fff;
+$body-font-color: #000000;
+$body-font-family: $sans;
+$body-font-weight: $font-weight-normal;
+$body-font-style: normal;
+
+/* BUTTONS */
+$header-line-height: 1.1 !important;
+$button-font-family: $sans;
+$button-font-color: #fff;
+$button-font-color-alt: #fff;
+$button-font-med: rem-calc(16);
+$button-font-tny: rem-calc(11);
+$button-font-sml: rem-calc(13);
+$button-font-lrg: rem-calc(16);
+$button-font-weight: normal;
+$button-font-align: center;
+
+$buttonhover: #8b5abc;
+
+@mixin grey-gradients()
+{
+background: #f5f5f5; /* Old browsers */
+background: -moz-linear-gradient(top,  #f5f5f5 0%, #e6e6e6 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f5f5f5), color-stop(100%,#e6e6e6)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f5f5f5 0%,#e6e6e6 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f5f5f5 0%,#e6e6e6 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f5f5f5 0%,#e6e6e6 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f5f5f5 0%,#e6e6e6 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5f5f5', endColorstr='#e6e6e6',GradientType=0 ); /* IE6-9 */
+}
+
+@mixin row-section-seperator()
+{
+    clear:both;float:left;display:block;width:100%;
+}
+

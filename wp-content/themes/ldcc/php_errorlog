@@ -1,0 +1,29 @@
+[29-Oct-2018 18:13:34 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php on line 2
+[15-Dec-2018 19:38:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/header.php on line 9
+[15-Dec-2018 19:38:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php on line 2
+[15-Dec-2018 19:38:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/404.php on line 10
+[19-Dec-2018 19:34:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php on line 2
+[19-Dec-2018 19:34:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/index.php on line 2
+[19-Dec-2018 19:34:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/404.php on line 10
+[19-Dec-2018 19:34:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/ldcc/header.php on line 9

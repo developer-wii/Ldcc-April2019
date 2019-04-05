@@ -1,0 +1,60 @@
+2019-03-15T07:16:41+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:835
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 835
+
+2019-03-15T07:16:55+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:835
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 835
+
+2019-03-15T07:17:52+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:835
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 835
+
+2019-03-15T07:18:28+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:836
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 836
+
+2019-03-15T07:23:25+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:836
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 836
+
+2019-03-15T07:28:39+00:00 CRITICAL Uncaught Error: Call to a member function get_title() on boolean in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php:837
+Stack trace:
+#0 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(286): cusotm_add_to_cart_myajax('')
+#1 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/samedayd/public_html/londondrycleaningcompany.com/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/samedayd/public_html/londondrycleaningcompany.com/wp-admin/admin-ajax.php(99): do_action('wp_ajax_cusotm_...')
+#4 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 837
+
+2019-03-15T07:35:04+00:00 CRITICAL syntax error, unexpected end of file, expecting ',' or ';' in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 479
+
+2019-03-15T07:35:49+00:00 CRITICAL syntax error, unexpected end of file, expecting ',' or ';' in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 479
+
+2019-03-15T07:35:49+00:00 CRITICAL syntax error, unexpected end of file, expecting ',' or ';' in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/lldc/functions.php on line 479
+

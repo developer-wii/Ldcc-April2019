@@ -1,0 +1,8 @@
+[08-Nov-2018 02:08:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentythirteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentythirteen/index.php on line 17
+[08-Nov-2018 08:05:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentythirteen/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/samedayd/public_html/londondrycleaningcompany.com/wp-content/themes/twentythirteen/comments.php on line 16
